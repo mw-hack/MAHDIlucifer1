@@ -12,7 +12,7 @@
 ## 🚀 CODE
 
  <h3>Android(Termux)</h3>
-
+<h3>[install]</h3>
 
    ```sh
  apt update && apt upgrade
