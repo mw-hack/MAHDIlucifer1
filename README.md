@@ -34,15 +34,20 @@
  
  restart termux
 
-[uninstall]
 
- bash uninstall.sh
+
+  ```
+
+ <h3>[uninstall]</h3>
+
+   ```sh
+
+bash uninstall.sh
 
  python SMSBomber300.py
-
-
- ```  
-
+ 
+  ```
+ 
 #mahdi
 
 
