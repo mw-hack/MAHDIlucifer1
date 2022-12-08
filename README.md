@@ -48,7 +48,6 @@ bash uninstall.sh
  
   ```
  
-#mahdi
-#Made by : Mr Matrix
+##Made by : Mr Matrix
 
 
