@@ -6,7 +6,7 @@
 - 09215831746
 - Id rubika:@Qldoory
 - Id shad:@mahdi_lucifer
-- Id telegram:@Lockader_doctor_Hack
+- Id tel:@Lockader_doctor_Hack
 
 
 ## 🚀 CODE
@@ -49,5 +49,6 @@ bash uninstall.sh
   ```
  
 #mahdi
+#Made by : Mr Matrix
 
 
