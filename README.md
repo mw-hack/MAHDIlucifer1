@@ -19,7 +19,7 @@
 
  pkg install python git
 
- git clone https://github.com/amireror/MAHDIlucifer1
+ git clone https://github.com/mw-hack/MAHDIlucifer1
  
 
  ls
